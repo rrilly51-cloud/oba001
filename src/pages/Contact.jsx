@@ -1,6 +1,6 @@
 import { useState } from "react";
 import { motion } from "framer-motion";
-import SectionHeader from "../components/SectionHeader";
+import SectionHeader from "../components/sectionHeader";
 import { addContactMessage } from "../firebase";
 import toast from "react-hot-toast";
 import confetti from "canvas-confetti";
