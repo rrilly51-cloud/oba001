@@ -17,7 +17,7 @@ const About = () => {
           whileInView={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.6 }}
         >
-          I’m <span className="font-semibold text-blue-600 dark:text-blue-400">Cyberflex</span>,  
+          I’m <span className="font-semibold text-blue-600 dark:text-blue-400">oba001</span>,  
           a full-stack developer and cybersecurity enthusiast.  
           I love building secure applications and sharing my knowledge with others in the tech community.
           My goal is to help others understand security from a developer’s perspective.
