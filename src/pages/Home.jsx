@@ -1,5 +1,5 @@
 import { motion } from "framer-motion";
-import SectionHeader from "../components/sectionHeader";
+import SectionHeader from "../components/SectionHeader";
 import { Link } from "react-router-dom";
 
 const Home = () => {
