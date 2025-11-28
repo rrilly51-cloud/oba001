@@ -1,10 +1,18 @@
+// import { initializeApp } from "firebase/app";
+// // import { initializeApp } from 'firebase/app';
+// import { getAuth } from 'firebase/auth';
+// // import { getFirestore } from 'firebase/firestore';
+
+// import {
+//   getFirestore,
+//   collection,
+//   addDoc,
+//   serverTimestamp,
+// } from "firebase/firestore";
 import { initializeApp } from "firebase/app";
-import {
-  getFirestore,
-  collection,
-  addDoc,
-  serverTimestamp,
-} from "firebase/firestore";
+import { getAuth } from "firebase/auth";
+import { getFirestore, collection, addDoc, serverTimestamp } from "firebase/firestore";
+
 
 const firebaseConfig = {
      apiKey: "AIzaSyChP2aXshjzIvF_AdIHzJc0uh1hZLs7GXo",
