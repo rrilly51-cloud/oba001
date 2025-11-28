@@ -1,5 +1,5 @@
 import { useParams, Link } from "react-router-dom";
-import SectionHeader from "../components/SectionHeader";
+import SectionHeader from "../components/sectionHeader";
 import projects from "../data/projects";
 
 const ProjectDetails = () => {
